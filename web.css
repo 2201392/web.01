@@ -1,0 +1,283 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(transparent,transparent)
+    ,url('photo1708471552\ \(5\).jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+    background-size: cover;
+    text-align: center;
+}
+.A {
+    width: 90%;
+    color: black;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+h1{
+    font-size: 95px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+ p {
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    justify-content: center;
+}
+ button {
+    width: 180px; 
+    height: 60px; 
+    background-color:rgb(11, 172, 221);
+    color: white;
+    border-color: rgb(11, 172, 221) ;
+    font-size: 15px;
+    margin-top: 35px;
+ }
+
+
+.a {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+h3 {
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h6 {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(70, 69, 69);
+}
+.B {
+    width: 180px; 
+    height: 60px;
+    background-color: black;
+    color: #ffffff;
+    border-color: black;
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+
+
+.b {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color: rgb(11, 172, 221);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+h4 {
+    color:  rgb(245, 241, 15);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+h2 {
+    color: #ffffff;
+    font-size: 50px;
+    
+}
+.v {
+  max-width: 1300px;
+  height: 100px;
+  display: flex;
+  margin: auto;
+}
+.card {
+  width: 22%;
+  border-radius: 15px;
+  position: relative;
+  margin: auto;
+  display: inline-block;
+}
+i {
+       font-size: 30px;
+}
+h2 {
+  font-size: 25px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.i {
+  font-size: 20px;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+@media(max-width:500px){
+  .B {
+    flex-direction: column;
+  }
+}
+.g{
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(transparent,transparent)
+  ,url('photo1708471552\ \(2\).jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
+  background-size: cover;
+  text-align: center;
+}
+.t {
+  width: 90%;
+  color: black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.f {
+  font-size: 60px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: black;
+}
+.l {
+  padding:70px;
+  text-align: center;
+}
+.ma {
+  text-align:center;
+}
+.y{
+  color: rgb(245, 241, 15);
+  font-size: 20px;
+}
+.n {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 35px;
+}
+.l h3 {
+  
+  font-size: 20px;
+  color: white;
+  text-align: left;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.l p{
+  color: white;
+  text-align: left;
+  font-size: 15px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.po {
+  justify-content: center;
+    text-align: center;
+    display:grid;
+    grid-template-columns: repeat(2,450px);
+  }
+  .ip {
+    background-image:url('photo1708471552\ \(3\).jpeg') ;
+    padding: 35px;
+    width:380px;
+    height:200px;
+    text-align: center;
+    background-size: cover;
+  }
+  .gw {
+    background-image:url('photo1708471552\ \(4\).jpeg') ;
+    padding: 35px;
+    width:380px;
+    height:200px;
+    text-align: center;
+    background-size: cover;
+  }
+  .ggw {
+    background-image:url('photo1708471552.jpeg') ;
+    padding: 35px;
+    width:380px;
+    height:200px;
+    text-align: center;
+    background-size: cover;
+  }
+  .gggw {
+    background-image:url('photo1708471552\ \(2\).jpeg') ;
+    padding: 35px;
+    width:380px;
+    height:200px;
+    text-align: center;
+    background-size: cover;
+  }
+  .ooo {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    background-color: rgb(11, 172, 221);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+    justify-content: space-between;
+  }
+  .ll {
+    width: 160px; 
+    height: 60px; 
+    background-color: white;
+    color: black;
+    border-color: white ;
+    font-size: 15px;
+    margin-top: 35px;
+  }
+  .lll {
+    width: 160px; 
+    height: 60px; 
+    background-color: black;
+    color: white;
+    border-color: black ;
+    font-size: 15px;
+    margin-top: 35px;
+    margin-bottom: 40px;
+  }
+  .ooo h4 {
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .map iframe {
+    height:400PX;
+    width:100%;
+   }
+   footer {
+    
+    padding:30PX;
+    text-align: center;
+    
+    }
+    footer div {
+    
+      display: flex;
+      text-align: center;
+      justify-content: center;
+      gap:25PX;
+    
+    }
+
+    
+    footer i {
+    font-size:30PX;
+      color: rgb(11, 172, 221);
+    }
+    
+     
+    
+    footer P {
+    font-size:10PX ;
+    
+    }
+    
+   
